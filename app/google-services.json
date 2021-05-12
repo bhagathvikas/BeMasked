@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196774019262",
+    "project_id": "bemasked-a15b3",
+    "storage_bucket": "bemasked-a15b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196774019262:android:654ba94b2ecf44bc151eef",
+        "android_client_info": {
+          "package_name": "com.example.bemasked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196774019262-mhkgpme18vpm5giimn7jr2g8gtkpr7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JoH4z9slr6L6qObUdnFchR88B4AzbtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196774019262-mhkgpme18vpm5giimn7jr2g8gtkpr7m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
